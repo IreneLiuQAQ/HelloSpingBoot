@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: password
+
+    url: jdbc:mysql://frps.lucien.ink:13306/pasteme?setUnicode=true&characterEncoding=utf-8
+    username: username
